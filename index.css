@@ -1,0 +1,49 @@
+body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #D3D3D3;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+     }
+        header h1 {
+            margin: 0;
+        }
+        .section {
+            margin-bottom: 20px;
+            padding: 20px;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        .education-item ,
+        .project-item{
+            margin-bottom: 10px;
+}
+        .education-item h3,
+        .project-item h3 {
+            margin: 0;
+            font-size: 1.2em;
+        }
+        .education-item
+        .project-item  {
+            margin:10px ;
+        }
+.sign{
+    text-align:right;
+    width:95%;}
